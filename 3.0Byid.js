@@ -36,7 +36,7 @@ function digiteiNoInput(){
 
 const elementos =document.querySelector(".main-button")
 function digiteiNoInput() {
-    console.log(element.innerHTML)
+    //console.log(element.innerHTML)
     
 }
 
