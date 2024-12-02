@@ -113,6 +113,23 @@ section {
 
 }
 
+@media screen and (max-width: 500px) {
+
+    .gif {
+        width: 100px;
+        display: block;
+        margin: 20px auto;
+    
+    }
+
+    main {
+
+        width: 300px;
+
+    }
+
+}
+
 
 
 
